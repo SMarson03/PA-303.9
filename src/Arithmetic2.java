@@ -1,3 +1,5 @@
+//A class named Arithmetic with a method named add that takes  integers as parameters
+// and returns an integer denoting their sum.
 class Arithmatic {
     int add (int a, int b)
     {
@@ -5,10 +7,12 @@ class Arithmatic {
     }
 }
 
+//A class named Adder that inherits from a superclass
+// named Arithmetic. Your classes should not be public .
 class Adder extends Arithmatic{
 
 }
-
+//Solution
 public class Arithmetic2{
     public static void main(String []args){
         // Create a new Adder object
