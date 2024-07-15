@@ -12,7 +12,7 @@ class Arithmatic {
 class Adder extends Arithmatic{
 
 }
-//Solution
+//SuperBike
 public class Arithmetic2{
     public static void main(String []args){
         // Create a new Adder object
